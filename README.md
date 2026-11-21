@@ -1,7 +1,20 @@
-## 🤖 Was ich gerade baue
+# Enes Doudouzi — Freelance Developer
 
-- **[KI Code-Review-Agent](https://github.com/enesdoudouzi-sys/code-review-agent)** — Autonomer KI-Agent mit OWASP Security Scan, deployed auf Vercel + Render
-- **[Smart Order Processing](https://github.com/intelligent-process-lab/smart-order-processing)** — Open-Source-Org-Projekt: Freitext → KI extrahiert Auftragsdaten automatisch
+**Full-Stack · KI-Integration · IT-Security**
+
+Ich baue produktionsreife Web-Applikationen und KI-Agenten — von der API bis zum deployed Frontend.
+Verfügbar für Freelance-Projekte: Web-Entwicklung, KI-Integration, Security-Tools.
+
+---
+
+## 🚀 Portfolio
+
+| Projekt | Stack | Live |
+|---|---|---|
+| [KI Code-Review-Agent](https://github.com/enesdoudouzi-sys/code-review-agent) | FastAPI · React · TypeScript · Docker | [▲ Vercel](https://code-review-agent-js5w.vercel.app) |
+| [CyberShield — SOC Dashboard](https://github.com/enesdoudouzi-sys/security-dashboard) | Next.js · TypeScript · FastAPI | [▲ GitHub Pages](https://enesdoudouzi-sys.github.io/security-dashboard/) |
+| [KI-Chat](https://github.com/enesdoudouzi-sys/ki-app) | Next.js · TypeScript · Playwright · Vitest | [▲ Vercel](https://ki-app-eta.vercel.app) |
+| [Smart Order Processing](https://github.com/intelligent-process-lab/smart-order-processing) | FastAPI · React · TypeScript · Docker | Open Source |
 
 ---
 
@@ -19,18 +32,6 @@
 
 ---
 
-## 🚀 Projekte
-
-| Projekt | Stack | Live |
-|---|---|---|
-| [KI Code-Review-Agent](https://github.com/enesdoudouzi-sys/code-review-agent) | FastAPI · React · Docker · Supabase | [▲ Vercel](https://code-review-agent-js5w.vercel.app) |
-| [Smart Order Processing](https://github.com/intelligent-process-lab/smart-order-processing) | FastAPI · React · TypeScript · Docker | Open Source |
-| [KI App](https://github.com/enesdoudouzi-sys/ki-app) | Next.js · TypeScript · Playwright · Vitest | — |
-| [IQ Quiz v2](https://github.com/enesdoudouzi-sys/iq-quiz-v2) | Capacitor · PWA · i18n · Docker | — |
-| [Lernsterne](https://github.com/enesdoudouzi-sys/antona) | PWA · Web Speech API · Vanilla JS | [GitHub Pages](https://enesdoudouzi-sys.github.io/antona/) |
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesdoudouzi-sys&show_icons=true&theme=tokyonight&hide_border=true)
@@ -39,7 +40,8 @@
 
 ## 📫 Kontakt
 
-Offen für **Junior-Positionen** in Web-Entwicklung, KI-Integration oder IT-Security.
+**Verfügbar für Freelance-Projekte** — Web-Entwicklung, KI-Integration, Security-Tools.
+Sprachen: Deutsch · Englisch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enesdoudouzi-sys)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/enesdoudouzi-sys)
